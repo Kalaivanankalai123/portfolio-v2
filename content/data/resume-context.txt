@@ -1,21 +1,47 @@
-Name: Kalaivanan K
-Role: Robotics Software Engineer
-Email: kalaivanankk2005@gmail.com
-Location: Bengaluru, Karnataka, India
+export const resumeData = `
+KALAIVANAN K
+Email: kalaivanankkalai5@gmail.com
+Phone: 9043160695
+Location: Trichy, Tamil Nadu
 
-Summary: 
-I am a Robotics Software Engineer specializing in autonomous systems, AI, and hardware integration. I bridge the gap between complex algorithms and real-world physical systems.
+SUMMARY
+Aspiring AI Engineer with a background in Artificial Intelligence and Data Science, possessing a strong foundation in machine learning, data analysis, and problem-solving. Skilled in Python, SQL, and developing AI-based applications, with hands-on experience through academic projects and internships. Seeking an opportunity to apply technical skills and contribute to organizational growth.
 
-Core Skills:
-- Autonomy: ROS 2 (Humble/Jazzy), Nav2, SLAM Toolbox, micro-ROS
-- AI & Vision: YOLOv11, CNNs, Swin Transformers, Pydantic AI
-- Hardware: Raspberry Pi 5, Arduino Mega 2560, LiDAR, Novelda X7 UWB Radar
-- Backend: Python, FastAPI, Flask, WebRTC, C/C++
+EDUCATION
+B.Tech - Artificial Intelligence and Data Science
+Anna University - M.A.M College of Engineering (2022-2026)
+CGPA: 8.1
 
-Key Projects:
-1. Enterprise AMR Platform Evaluation: Evaluated Husarion ROSbot XL and sensor payloads for hospital deployments.
-2. UWB Radar Firmware: Developed custom C/C++ firmware for MAX32660 microcontrollers to extract raw radar data.
-3. X-Ray Diagnostics AI: Built a computer vision API using YOLOv11 and Flask for disease detection.
+INTERNSHIPS
+1. AI & Robotics Intern - ARAI Solutions (Dec 2025 - Present)
+- Worked with Large Language Models (LLMs) to extract and generate structured information from unstructured documents using a retrieval-based approach.
+- Developed a web-based interface and contributed to AI and robotics projects, gaining experience in automation, data processing, and intelligent systems.
 
-Work Style:
-I am highly analytical, enjoy deep technical challenges like reverse-engineering SPI protocols, and communicate professionally and directly.
+2. Intern - TechShikSha (Aug 2024 - Sep 2024)
+- Worked on Natural Language Processing (NLP) and document intelligence applications and participated in an industry visit to Microsoft, gaining exposure to corporate workflows and emerging technologies.
+
+PROJECTS
+1. AI-Based Heart Disease Diagnosis from X-rays
+- Developed a CNN-based system for automated heart disease detection from chest X-ray images with a web interface for prediction and diagnostic support.
+
+2. Autonomous UGV with SLAM, Navigation, and Web-Based Remote Control Interface
+- Built an autonomous robotic vehicle using LiDAR-based SLAM for real-time mapping and obstacle-aware navigation.
+- Developed a web-based dashboard with live video streaming, remote control, and gesture-based interaction using computer vision.
+
+3. LLM-Based Document Processing System
+- Developed a web-based application using open-source LLMs to process and extract structured content from uploaded documents (PDFs, text).
+- Enabled generation and download of outputs such as summaries, instructions, quizzes, and flashcards through a local deployment.
+
+CERTIFICATIONS
+- Microsoft Certification: Create an Intelligent Document Processing Solution with Azure Document Intelligence
+- Microsoft Applied Skills: Build a Natural Language Processing Solution with Azure AI Language
+
+TECHNICAL SKILLS
+- Programming: Python, SQL
+- Machine Learning & Deep Learning: Scikit-learn, Tensorflow, Keras
+- Data Analytics: Matplotlib, NumPy, Pandas, Seaborn
+- Core Concepts: Machine learning, Deep learning, Data analytics
+
+LANGUAGES
+English, Tamil
+`;
