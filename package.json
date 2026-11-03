@@ -9,7 +9,12 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@ai-sdk/google": "^4.0.88",
+    "@ai-sdk/react": "^4.0.131",
+    "@next/third-parties": "^16.4.3",
+    "ai": "^7.0.128",
     "next": "16.3.8",
+    "next-themes": "^0.4.6",
     "react": "19.2.8",
     "react-dom": "19.2.8"
   },

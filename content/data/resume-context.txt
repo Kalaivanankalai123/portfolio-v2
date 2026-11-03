@@ -1,0 +1,21 @@
+Name: Kalaivanan K
+Role: Robotics Software Engineer
+Email: kalaivanankk2005@gmail.com
+Location: Bengaluru, Karnataka, India
+
+Summary: 
+I am a Robotics Software Engineer specializing in autonomous systems, AI, and hardware integration. I bridge the gap between complex algorithms and real-world physical systems.
+
+Core Skills:
+- Autonomy: ROS 2 (Humble/Jazzy), Nav2, SLAM Toolbox, micro-ROS
+- AI & Vision: YOLOv11, CNNs, Swin Transformers, Pydantic AI
+- Hardware: Raspberry Pi 5, Arduino Mega 2560, LiDAR, Novelda X7 UWB Radar
+- Backend: Python, FastAPI, Flask, WebRTC, C/C++
+
+Key Projects:
+1. Enterprise AMR Platform Evaluation: Evaluated Husarion ROSbot XL and sensor payloads for hospital deployments.
+2. UWB Radar Firmware: Developed custom C/C++ firmware for MAX32660 microcontrollers to extract raw radar data.
+3. X-Ray Diagnostics AI: Built a computer vision API using YOLOv11 and Flask for disease detection.
+
+Work Style:
+I am highly analytical, enjoy deep technical challenges like reverse-engineering SPI protocols, and communicate professionally and directly.
