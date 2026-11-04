@@ -37,7 +37,7 @@ export default function Contact() {
         <div className="md:w-1/2">
           <form action="https://api.web3forms.com/submit" method="POST" className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800 p-8 rounded-xl space-y-6 shadow-sm dark:shadow-none transition-colors duration-300">
             {/* Make sure your access key is correct below! */}
-            <input type="hidden" name="access_key" value="98f108d1-d286-4f4f-b3a1-944a95689728" />
+            <input type="hidden" name="access_key" value="08f9125c-42c6-4bbb-b455-5bd5bc8d84c7" />
             
             <div className="space-y-1.5">
               <label htmlFor="name" className="text-[10px] font-mono uppercase tracking-wider text-zinc-500 dark:text-zinc-400">Name</label>
