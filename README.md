@@ -1,36 +1,24 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Kalaivanan K. | Portfolio & Technical Workspace
+A professional engineering portfolio showcasing systems built at the intersection of physical hardware and digital algorithms. The site highlights projects involving ROS 2 navigation, autonomous mobile robots (AMRs), embedded AI, and computer vision, while featuring an integrated AI assistant capable of answering questions regarding professional experience, technical stacks, and project architectures.
 
-## Getting Started
+Key Features
+Integrated AI Assistant: A custom chat widget built with the Vercel AI SDK running on the Edge runtime, allowing visitors to interactively query professional background and project data without server timeouts.
 
-First, run the development server:
+Theme-Aware UI: Seamless dark and light modes with custom CSS variants, translucent frosted-glass components, and smooth transitions.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Interactive Visuals: Highly optimized radial-gradient cursor tracking and intersection-observer scroll animations for a polished user experience.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Responsive Architecture: Fully responsive layout built with Tailwind CSS, ensuring readability, structural integrity, and strict WCAG contrast compliance across all devices.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Tech Stack
+Framework: Next.js 16 (App Router, Turbopack)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Styling: Tailwind CSS, Next-Themes
 
-## Learn More
+AI Integration: Vercel AI SDK (Edge Runtime)
 
-To learn more about Next.js, take a look at the following resources:
+Language: TypeScript
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Deployment: Vercel
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Local Development
